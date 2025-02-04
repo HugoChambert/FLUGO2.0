@@ -1204,6 +1204,10 @@ section {
 /*--------------------------------------------------------------
 # Portfolio Section
 --------------------------------------------------------------*/
+#portfolio-title{
+  margin-top: 70px;
+  font-size: 80px;
+}
 .portfolio .portfolio-filters {
   padding: 0;
   margin: 0 auto 20px auto;
