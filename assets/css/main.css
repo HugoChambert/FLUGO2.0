@@ -1,6 +1,6 @@
 .page-header {
   height: 100%;
-  background-image: url("/path/to/image.jpg");
+  background-image: url("/path/to/image.png");
 }
 .page-header:after {
   animation: grain 8s steps(10) infinite;
