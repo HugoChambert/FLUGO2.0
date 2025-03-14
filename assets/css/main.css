@@ -4,7 +4,7 @@
 }
 .page-header:after {
   animation: grain 8s steps(10) infinite;
-  background-image: url("/assets/img/portfolio/grain2-min.png");
+  background-image: url("/assets/img/grain2-min.png");
   content: "";
   height: 300%;
   left: -50%;
